@@ -1,3 +1,5 @@
+package Algorithm_Common;
+
 import java.util.Random;
 
 /**
